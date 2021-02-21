@@ -1,0 +1,23 @@
+body {
+ display: flex;
+ justify-content: center;
+}
+
+.air {
+  width: 400px;
+}
+
+.row {
+  width: 100%;
+  display: flex;
+}
+
+.cloud {
+  height: 35px;
+  width: 40px;
+  background-color: aqua;
+}
+
+.player {
+  background-color: orange;
+}
